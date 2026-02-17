@@ -13,6 +13,8 @@
 | **Message Brokers** | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-%23323132.svg?style=for-the-badge&logo=apachekafka&logoColor=white) |
 | **IDE** | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alina824&layout=donut)
 <!--
 **Alina824/Alina824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
